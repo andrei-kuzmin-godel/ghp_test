@@ -1,0 +1,15 @@
+{
+  "name": "consumer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@andrei-kuzmin-godel/package_one": "^1.0.0",
+    "@andrei-kuzmin-godel/package_two": "^1.0.0"
+  }
+}
