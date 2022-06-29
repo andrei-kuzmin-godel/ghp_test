@@ -1,2 +1,2 @@
 # ghp_test
-Github packaes test
+Github packages test
